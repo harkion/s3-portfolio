@@ -11,9 +11,6 @@ export default function ContactPage() {
         <a className="card block" href="https://linkedin.com/in/genc-fahri-can" target="_blank">LinkedIn</a>
         <a className="card block" href="https://github.com/harkion" target="_blank">GitHub</a>
         <a className="card block" href="https://instagram.com/gencfahrican" target="_blank">Instagram</a>
-        <div className="card text-sm text-zinc-400">
-          ● Available for work — currently accepting select freelance projects and full-time opportunities.
-        </div>
       </div>
     </section>
   );
